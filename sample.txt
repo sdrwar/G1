@@ -11,3 +11,5 @@ dawn
 sleep
 
 new thing
+
+집에서 복습
