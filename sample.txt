@@ -5,3 +5,7 @@ day1
 Git / Github
 
 명령어
+
+dawn
+
+sleep
