@@ -11,3 +11,6 @@ dawn
 sleep
 
 new thing
+
+
+머리가 띵하다.
