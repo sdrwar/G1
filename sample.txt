@@ -1,1 +1,7 @@
 hello 
+
+day1
+
+Git / Github
+
+명령어
